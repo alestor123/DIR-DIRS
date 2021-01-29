@@ -1,5 +1,3 @@
-const { dir } = require('console');
-
 var fs = require('fs'),
 path = require('path'),
 read = require('util').promisify(fs.readdir),
