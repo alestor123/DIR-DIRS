@@ -1,0 +1,19 @@
+{
+  "name": "dir-dirs",
+  "version": "1.0.0",
+  "description": "This is a simple code for getting dirs with in a dir",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/DIR-DIRS.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/DIR-DIRS/issues"
+  },
+  "homepage": "https://github.com/alestor123/DIR-DIRS#readme"
+}
